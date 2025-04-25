@@ -16,7 +16,7 @@ function initMenu() {
     });
 }
 
-// 选择执行时机
+// 根据场景选择执行时机
 if (document.readyState === 'complete') {
     initMenu();
 } else {
