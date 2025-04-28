@@ -21,6 +21,7 @@ uHand UNO
    docs/8.ai_vision_game_course.md
    docs/9.wireless_glove_conntrol_course.md
    docs/10.serial_communication_instruction.md
+   docs/resources_download.md
    Download <https://drive.google.com/drive/folders/1jv09MxGJXSi5YLI0b7PuihRk84uMdOBo?usp=sharing>
 
 
